@@ -17,15 +17,6 @@
       "use": "sig",
       "x": "JQuapfpK2GUGvIb3F5yLTdYnoU3R3KNcBt9UmzXjYOE",
       "y": "9MvINidrx0ZxIyufs31zrCaeQyArOWLorWJPiUwGcZ4"
-    },
-    {
-      "alg": "ES256",
-      "crv": "P-256",
-      "kid": "zB6tWI2HUoDABaxejt0AeuoilLE1BR9s",
-      "kty": "EC",
-      "use": "sig",
-      "x": "Tm1zWNqUbUhToXdgmhWpPPXZjQdWYdbrNAI2nljWWZc",
-      "y": "1XitCV9GshWFX3FqatxVg-KTYAEWqg_CJL0HuZIXJLM"
     }
   ]
 }
