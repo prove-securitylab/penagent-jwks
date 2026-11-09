@@ -3,6 +3,15 @@
     {
       "alg": "ES256",
       "crv": "P-256",
+      "kid": "GQZ1Ku0eUDzrOB90BQpKOLULc02fFBAt",
+      "kty": "EC",
+      "use": "sig",
+      "x": "12anblfYfit9EkBXi-nYCqtJogWQ_2Askg9cDnAdHBg",
+      "y": "NXyXe21k4dwvCZPwzaAmgCI2xAS5KxnURJEZj-FLQpE"
+    },
+    {
+      "alg": "ES256",
+      "crv": "P-256",
       "kid": "OUdpafDiALrFBFlp2p2HmsjHgADdGvIa",
       "kty": "EC",
       "use": "sig",
