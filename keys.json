@@ -12,6 +12,15 @@
     {
       "alg": "ES256",
       "crv": "P-256",
+      "kid": "O8gF2R9u8YfKwg3Cbo0ji0J0tgtOt5uM",
+      "kty": "EC",
+      "use": "sig",
+      "x": "IGsq-6zkjAXQn_1Uct0lIyxICx2i9FB9iL5BVZ1207o",
+      "y": "WdpZ0YS7BE6Qal8KRsNf5LlL6lVyQZ7uvgJCxWgLpT8"
+    },
+    {
+      "alg": "ES256",
+      "crv": "P-256",
       "kid": "QTaMMMRmsqGZqkQECXOGXCpuj6hdZx11",
       "kty": "EC",
       "use": "sig",
